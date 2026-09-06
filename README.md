@@ -21,21 +21,7 @@ FAST NUCES (present till 2030)
 ## Projects
 - Programming Fundamentals Lab Tasks
 
-## Hobbies 
-I like to play video games such as:
-1) Valorant
-2) Counter strike 2
-3) GTA 5
-4) GOD OF WAR(2018)
- and many more...
 
-Other than video games i like to play sports 
-such as:
-1) Cricket
-2) Football
-3) Badminton
-4) Basketball
-I ALSO LIKE GOING TO THE GYM
 
 
 
