@@ -28,7 +28,9 @@ such as :
   Football
   Cricket
   Badminton
-3) GYM
+- [x] Joined university team
+   - [ ✔️] Win an inter-College tournament
+4) GYM
 
 
 
