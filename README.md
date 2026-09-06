@@ -21,8 +21,16 @@ FAST NUCES (present till 2030)
 ## Projects
 - Programming Fundamentals Lab Tasks
 
-
-
+## Hobbies & Extracurriculars
+1) Reading
+2) Sports
+such as :
+  Football
+  Cricket
+  Badminton
+- [❌] Joined university team
+   - [ ✔️] Win an inter-College tournament
+4) GYM
 
 
 
